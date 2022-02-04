@@ -1,3 +1,3 @@
-# Personal-projects
+# Personal-projects: Tic-Tac-Toe game
 The Tic-Tac-Toe game works by asking each player where they want to assign their mark on the playing field while is their turn and then making the certain moves until one of the players eventually wins or until when it's called a tie.
 This project was made by following the "Python 3 fundamentals" course on Pirple.com, but I implemented myself the winning and tie conditions, as well as some error handling functions like catching the unexpected move where a player assigns his mark in a spot that's already taken or if the input given is out of the specified range where the player can assign his move.
